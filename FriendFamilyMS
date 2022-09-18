@@ -1,0 +1,3 @@
+spring.application.name=FriendMS
+server.port=8300
+spring.datasource.url=jdbc:mysql://localhost/infytel-friend-family
